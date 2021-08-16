@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pawsome</string>
+    <string name="image_of_a_dog">Image of a dog</string>
+    <string name="api_key" tools:ignore="TypographyDashes">8bb48647-4666-4932-8cd4-bfdd92b83217</string>
+    <string name="home">Home</string>
+    <string name="upload">Upload</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select</string>
+    <string name="image_to_be_uploaded">Image to be uploaded</string>
+</resources>
